@@ -1,0 +1,27 @@
+
+
+.pookiebears{
+		flex-wrap: wrap;
+		justify-content: center;
+		flex-direction: row;
+		display: flex;
+		column-gap: 25px;
+		img{width: 300px; height: 320px}
+
+.price{
+	font-size: 30px;
+	font-style: bold;
+	color: #cf8295;
+	font-family: Playfair Display;
+
+
+
+.lips{
+		flex-wrap: wrap;
+		justify-content: center;
+		flex-direction: row;
+		display: flex;
+		column-gap: 25px;
+		img{width: 300px; height: 320px}
+
+
